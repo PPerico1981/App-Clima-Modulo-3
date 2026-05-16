@@ -15,4 +15,4 @@ App de clima frontend desarrollada con HTML5 semántico, Bootstrap 5 y JavaScrip
 - JavaScript
 
 ## Repositorio
-https://github.com/PPerico1981/App-Clima.git
+https://github.com/PPerico1981/App-Clima-Modulo-3.git
